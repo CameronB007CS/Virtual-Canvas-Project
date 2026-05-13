@@ -35,7 +35,7 @@ The app compares each fingertip's y-position against its MCP (knuckle) joint. If
 
 | Gesture | Action |
 |---|---|
-| ☞ Index finger only | Draw mode — line follows fingertip |
+|  Index finger only | Draw mode — line follows fingertip |
 |  Index + Middle | Hover mode — pen lifts, toolbar active |
 |  Open palm | Clear canvas |
 |  Fist | Idle |
