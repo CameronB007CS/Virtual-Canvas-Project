@@ -15,8 +15,8 @@ I built this because I wanted a project that *felt* like real software — somet
 
 ## Demo
 
-> 📹 *Record a short screen capture and drop the link here*
-> Example: `![Demo](link-to-your-gif-or-youtube)`
+>  *Record some sort of tutorial demo showing my app in motion*
+>  `Demo Link will go here soon`
 
 ---
 
@@ -36,9 +36,9 @@ The app compares each fingertip's y-position against its MCP (knuckle) joint. If
 | Gesture | Action |
 |---|---|
 | ☞ Index finger only | Draw mode — line follows fingertip |
-| ✌️ Index + Middle | Hover mode — pen lifts, toolbar active |
-| 🖐️ Open palm | Clear canvas |
-| ✊ Fist | Idle |
+|  Index + Middle | Hover mode — pen lifts, toolbar active |
+|  Open palm | Clear canvas |
+|  Fist | Idle |
 
 ---
 
